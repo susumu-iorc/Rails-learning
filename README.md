@@ -1,2 +1,2 @@
 # Rails-leraning
-Railsの学習
+Repository on GitHub for learning rails.
